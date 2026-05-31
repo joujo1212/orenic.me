@@ -1,0 +1,26 @@
+<svg width="1600" height="1000" viewBox="0 0 1600 1000" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1600" height="1000" fill="#06080D"/>
+  <circle cx="275" cy="225" r="330" fill="#A78BFA" opacity="0.15"/>
+  <circle cx="1288" cy="680" r="380" fill="#5EEAD4" opacity="0.12"/>
+  <g stroke="#5EEAD4" stroke-width="4" opacity="0.35">
+    <path d="M420 330L800 486L1190 318"/>
+    <path d="M420 330L560 710L800 486L1036 720L1190 318"/>
+    <path d="M560 710L1036 720"/>
+  </g>
+  <g fill="#111827" stroke="#E5EEFB" stroke-width="8">
+    <circle cx="420" cy="330" r="62"/>
+    <circle cx="800" cy="486" r="62"/>
+    <circle cx="1190" cy="318" r="62"/>
+    <circle cx="560" cy="710" r="62"/>
+    <circle cx="1036" cy="720" r="62"/>
+  </g>
+  <g stroke="#5EEAD4" stroke-width="12" stroke-linecap="round">
+    <path d="M374 330H466M420 284V376"/>
+    <path d="M754 486H846M800 440V532"/>
+    <path d="M1144 318H1236M1190 272V364"/>
+    <path d="M514 710H606M560 664V756"/>
+    <path d="M990 720H1082M1036 674V766"/>
+  </g>
+  <text x="80" y="120" fill="#E5EEFB" font-family="Inter, Arial, sans-serif" font-size="56" font-weight="700">Micro Drone Swarm</text>
+  <text x="84" y="180" fill="#9BA8BC" font-family="Inter, Arial, sans-serif" font-size="28">formation control with compact telemetry</text>
+</svg>

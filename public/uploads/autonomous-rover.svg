@@ -1,0 +1,30 @@
+<svg width="1600" height="1000" viewBox="0 0 1600 1000" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1600" height="1000" fill="#05070B"/>
+  <circle cx="285" cy="186" r="290" fill="#5EEAD4" opacity="0.18"/>
+  <circle cx="1220" cy="222" r="340" fill="#A78BFA" opacity="0.16"/>
+  <path d="M0 744C219 675 417 645 594 654C831 666 990 755 1208 751C1358 748 1488 706 1600 653V1000H0V744Z" fill="#101827"/>
+  <g stroke="#263245" stroke-width="2" opacity="0.65">
+    <path d="M0 678H1600"/>
+    <path d="M0 782H1600"/>
+    <path d="M0 886H1600"/>
+    <path d="M160 600V1000"/>
+    <path d="M426 600V1000"/>
+    <path d="M692 600V1000"/>
+    <path d="M958 600V1000"/>
+    <path d="M1224 600V1000"/>
+    <path d="M1490 600V1000"/>
+  </g>
+  <g transform="translate(404 360)">
+    <rect x="140" y="185" width="520" height="170" rx="72" fill="#111827" stroke="#5EEAD4" stroke-width="8"/>
+    <rect x="230" y="96" width="346" height="145" rx="42" fill="#0B1220" stroke="#A78BFA" stroke-width="6"/>
+    <rect x="324" y="38" width="166" height="84" rx="34" fill="#111827" stroke="#5EEAD4" stroke-width="6"/>
+    <circle cx="248" cy="372" r="78" fill="#05070B" stroke="#E5EEFB" stroke-width="12"/>
+    <circle cx="552" cy="372" r="78" fill="#05070B" stroke="#E5EEFB" stroke-width="12"/>
+    <circle cx="248" cy="372" r="26" fill="#5EEAD4"/>
+    <circle cx="552" cy="372" r="26" fill="#5EEAD4"/>
+    <path d="M410 78C514 16 639 14 745 74" stroke="#5EEAD4" stroke-width="12" stroke-linecap="round" opacity="0.45"/>
+    <path d="M440 116C518 74 604 73 682 114" stroke="#5EEAD4" stroke-width="10" stroke-linecap="round" opacity="0.7"/>
+  </g>
+  <text x="80" y="120" fill="#E5EEFB" font-family="Inter, Arial, sans-serif" font-size="56" font-weight="700">Autonomous Rover SLAM</text>
+  <text x="84" y="180" fill="#9BA8BC" font-family="Inter, Arial, sans-serif" font-size="28">lidar mapping / planning / field autonomy</text>
+</svg>

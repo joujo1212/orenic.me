@@ -1,0 +1,23 @@
+<svg width="1600" height="1000" viewBox="0 0 1600 1000" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1600" height="1000" fill="#05070B"/>
+  <g stroke="#263245" stroke-width="2" opacity="0.78">
+    <path d="M200 160V880"/>
+    <path d="M500 160V880"/>
+    <path d="M800 160V880"/>
+    <path d="M1100 160V880"/>
+    <path d="M1400 160V880"/>
+    <path d="M120 260H1480"/>
+    <path d="M120 500H1480"/>
+    <path d="M120 740H1480"/>
+  </g>
+  <path d="M320 260C500 385 652 444 800 500C978 568 1142 640 1280 740" stroke="#5EEAD4" stroke-width="12" stroke-linecap="round"/>
+  <g fill="#A78BFA">
+    <circle cx="320" cy="260" r="22"/>
+    <circle cx="560" cy="404" r="22"/>
+    <circle cx="800" cy="500" r="22"/>
+    <circle cx="1040" cy="620" r="22"/>
+    <circle cx="1280" cy="740" r="22"/>
+  </g>
+  <text x="80" y="120" fill="#E5EEFB" font-family="Inter, Arial, sans-serif" font-size="56" font-weight="700">Formation Grid</text>
+  <text x="84" y="180" fill="#9BA8BC" font-family="Inter, Arial, sans-serif" font-size="28">planned trajectory and spacing constraints</text>
+</svg>

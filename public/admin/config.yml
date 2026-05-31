@@ -1,0 +1,51 @@
+backend:
+  name: github
+  repo: joujo1212/orenic.me
+  branch: main
+
+local_backend: true
+publish_mode: editorial_workflow
+media_folder: "public/uploads"
+public_folder: "/uploads"
+
+collections:
+  - name: "projects"
+    label: "Projects"
+    label_singular: "Project"
+    folder: "src/content/projects"
+    create: true
+    delete: true
+    extension: "md"
+    format: "frontmatter"
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    preview_path: "projects/{{slug}}"
+    summary: "{{title}} - {{date}}"
+    sortable_fields: ["date", "title"]
+    fields:
+      - label: "Title"
+        name: "title"
+        widget: "string"
+      - label: "Date"
+        name: "date"
+        widget: "datetime"
+        format: "YYYY-MM-DD"
+        date_format: "YYYY-MM-DD"
+        time_format: false
+      - label: "Short Description"
+        name: "short_description"
+        widget: "text"
+        hint: "A punchy one or two sentence summary for the timeline card."
+      - label: "Main Image"
+        name: "main_image"
+        widget: "image"
+      - label: "Gallery Images"
+        name: "gallery_images"
+        widget: "list"
+        required: false
+        field:
+          label: "Image"
+          name: "image"
+          widget: "image"
+      - label: "Body"
+        name: "body"
+        widget: "markdown"

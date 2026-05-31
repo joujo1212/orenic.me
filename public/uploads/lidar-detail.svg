@@ -1,0 +1,23 @@
+<svg width="1600" height="1000" viewBox="0 0 1600 1000" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1600" height="1000" fill="#06080D"/>
+  <circle cx="800" cy="500" r="120" fill="#111827" stroke="#5EEAD4" stroke-width="10"/>
+  <circle cx="800" cy="500" r="34" fill="#5EEAD4"/>
+  <g stroke="#5EEAD4" stroke-width="3" stroke-linecap="round" opacity="0.42">
+    <path d="M800 500L197 203"/>
+    <path d="M800 500L331 797"/>
+    <path d="M800 500L1440 256"/>
+    <path d="M800 500L1390 805"/>
+    <path d="M800 500L1010 96"/>
+    <path d="M800 500L650 914"/>
+  </g>
+  <g fill="#A78BFA" opacity="0.86">
+    <circle cx="197" cy="203" r="12"/>
+    <circle cx="331" cy="797" r="12"/>
+    <circle cx="1440" cy="256" r="12"/>
+    <circle cx="1390" cy="805" r="12"/>
+    <circle cx="1010" cy="96" r="12"/>
+    <circle cx="650" cy="914" r="12"/>
+  </g>
+  <text x="80" y="120" fill="#E5EEFB" font-family="Inter, Arial, sans-serif" font-size="56" font-weight="700">Sensor Envelope</text>
+  <text x="84" y="180" fill="#9BA8BC" font-family="Inter, Arial, sans-serif" font-size="28">range confidence and obstacle returns</text>
+</svg>

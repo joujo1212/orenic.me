@@ -1,0 +1,18 @@
+<svg width="1600" height="1000" viewBox="0 0 1600 1000" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1600" height="1000" fill="#06080D"/>
+  <circle cx="1130" cy="245" r="360" fill="#A78BFA" opacity="0.16"/>
+  <circle cx="354" cy="735" r="300" fill="#5EEAD4" opacity="0.12"/>
+  <path d="M0 820H1600" stroke="#263245" stroke-width="4"/>
+  <g transform="translate(465 245)" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="150" cy="480" r="74" fill="#111827" stroke="#E5EEFB" stroke-width="10"/>
+    <path d="M150 480L290 310" stroke="#5EEAD4" stroke-width="54"/>
+    <circle cx="290" cy="310" r="58" fill="#111827" stroke="#E5EEFB" stroke-width="8"/>
+    <path d="M290 310L515 205" stroke="#A78BFA" stroke-width="44"/>
+    <circle cx="515" cy="205" r="50" fill="#111827" stroke="#E5EEFB" stroke-width="8"/>
+    <path d="M515 205L680 300" stroke="#5EEAD4" stroke-width="34"/>
+    <path d="M680 300L760 262" stroke="#E5EEFB" stroke-width="18"/>
+    <path d="M680 300L768 344" stroke="#E5EEFB" stroke-width="18"/>
+  </g>
+  <text x="80" y="120" fill="#E5EEFB" font-family="Inter, Arial, sans-serif" font-size="56" font-weight="700">Adaptive Manipulator</text>
+  <text x="84" y="180" fill="#9BA8BC" font-family="Inter, Arial, sans-serif" font-size="28">compliant gripping and calibrated motion plans</text>
+</svg>

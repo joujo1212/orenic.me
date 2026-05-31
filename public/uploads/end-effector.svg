@@ -1,0 +1,14 @@
+<svg width="1600" height="1000" viewBox="0 0 1600 1000" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1600" height="1000" fill="#05070B"/>
+  <circle cx="800" cy="455" r="310" fill="#5EEAD4" opacity="0.12"/>
+  <g transform="translate(488 210)">
+    <rect x="214" y="0" width="196" height="282" rx="70" fill="#111827" stroke="#E5EEFB" stroke-width="10"/>
+    <path d="M312 282V430" stroke="#5EEAD4" stroke-width="44" stroke-linecap="round"/>
+    <path d="M232 432C140 482 92 570 92 660" stroke="#A78BFA" stroke-width="34" stroke-linecap="round"/>
+    <path d="M392 432C484 482 532 570 532 660" stroke="#A78BFA" stroke-width="34" stroke-linecap="round"/>
+    <path d="M312 430C250 494 214 570 214 660" stroke="#5EEAD4" stroke-width="28" stroke-linecap="round"/>
+    <path d="M312 430C374 494 410 570 410 660" stroke="#5EEAD4" stroke-width="28" stroke-linecap="round"/>
+  </g>
+  <text x="80" y="120" fill="#E5EEFB" font-family="Inter, Arial, sans-serif" font-size="56" font-weight="700">Compliant End Effector</text>
+  <text x="84" y="180" fill="#9BA8BC" font-family="Inter, Arial, sans-serif" font-size="28">grip geometry tuned for variable payloads</text>
+</svg>

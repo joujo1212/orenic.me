@@ -1,0 +1,24 @@
+{
+  "name": "orenic.me",
+  "version": "1.0.0",
+  "description": "A fast, minimal robotics portfolio built with Astro and Tailwind CSS.",
+  "type": "module",
+  "scripts": {
+    "dev": "astro dev",
+    "build": "astro check && astro build",
+    "preview": "astro preview",
+    "astro": "astro"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "astro": "^6.4.2",
+    "tailwindcss": "^4.3.0"
+  },
+  "devDependencies": {
+    "@astrojs/check": "^0.9.9",
+    "@tailwindcss/postcss": "^4.3.0",
+    "typescript": "^6.0.3"
+  }
+}
